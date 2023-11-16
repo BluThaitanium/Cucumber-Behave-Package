@@ -146,6 +146,8 @@ class CucumberJSONFormatter(Formatter):
  
     def embedding(self, mime_type, data):
         step = self.current_feature_element['steps'][-1]
+        if "embeddings" not in step:
+            step["embeddings"] = []         
         step['embeddings'].append({
             'mime_type': mime_type,
             'data': base64.b64encode(data).replace('\n', ''),
