@@ -1,3 +1,8 @@
 *.egg-info/
 build/
 dist/
+.idea/
+target/
+poetry.toml
+poetry.lock
+.DS_Store
