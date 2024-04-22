@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "habushu_cucumber_formatter"
+version = "1.0.0.dev"
+description = "Formatter for generating Cucumber-format JSON test results using the Behave test framework"
+authors = ["Isaac Becerra Llanos <ibecerrallanos@cpointe-inc.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+black = ">=24.3.0"
+behave = ">=1.2.6"
+
+[build-system]
+requires = ["poetry-core>=1.6.0"]
+build-backend = "poetry.core.masonry.api"
