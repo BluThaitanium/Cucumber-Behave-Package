@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "habushu_cucumber_formatter"
+name = "habushu-cucumber-formatter"
 version = "1.0.0.dev"
 description = "Formatter for generating Cucumber-format JSON test results using the Behave test framework"
 authors = ["Isaac Becerra Llanos <ibecerrallanos@cpointe-inc.com>"]
