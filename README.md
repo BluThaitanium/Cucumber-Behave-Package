@@ -13,7 +13,7 @@ pip install habushu-cucumber-formatter
 ## Usage
 
 ```bash
-behave --format habushu_cucumber_formatter:PrettyCucumberJSONFormatter
+behave --format kappa_maki:PrettyCucumberJSONFormatter
 ```
 ---
 Or with an `.ini` file:

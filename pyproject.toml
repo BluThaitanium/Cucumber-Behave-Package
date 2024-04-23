@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "habushu-cucumber-formatter"
+name = "kappa-maki"
 version = "1.0.0.dev"
-description = "Formatter for generating Cucumber-format JSON test results using the Behave test framework"
+description = "Formatter for generating Cucumber-format JSON test results using the Behave test framework.  Named after a refreshing cucumber sushi cocktail."
 authors = ["Isaac Becerra Llanos <ibecerrallanos@cpointe-inc.com>"]
 license = "MIT License"
 
