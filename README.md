@@ -16,7 +16,7 @@ Output is similar to `behave --format json.pretty`
 
 ## Installation
 ```bash
-pip install habushu-cucumber-formatter
+pip install kappa-maki
 ````
 
 ## Usage
@@ -29,7 +29,7 @@ Or with an `.ini` file:
 ```ini
 # -- FILE: behave.ini
 [behave.formatters]
-cucumber = habushu_cucumber_formatter:PrettyCucumberJSONFormatter
+cucumber = kappa_maki:PrettyCucumberJSONFormatter
 ```
 and use the shorthand:
 ```bash
@@ -38,5 +38,5 @@ behave --format cucumber
 
 ## Un-Installation
 ```bash
-pip uninstall habushu-cucumber-formatter
+pip uninstall kappa-maki
 ```

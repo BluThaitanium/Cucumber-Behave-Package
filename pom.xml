@@ -12,7 +12,7 @@
     <groupId>org.technologybrewery.habushu.cucumber.formatter</groupId>
     <version>1.0.1-SNAPSHOT</version>
 
-    <artifactId>habushu-cucumber-formatter</artifactId>
+    <artifactId>kappa-maki</artifactId>
     <packaging>habushu</packaging>
 
 
