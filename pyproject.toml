@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "kappa-maki"
-version = "1.0.0.dev"
+version = "1.0.1.dev"
 description = "Formatter for generating Cucumber-format JSON test results using the Behave test framework.  Named after a refreshing cucumber sushi cocktail."
 authors = ["Isaac Becerra Llanos <ibecerrallanos@cpointe-inc.com>"]
 license = "MIT License"
+readme = "README.md"
+repository = "https://github.com/TechnologyBrewery/kappa-maki"
 
 [tool.poetry.dependencies]
 python = "^3.11"
