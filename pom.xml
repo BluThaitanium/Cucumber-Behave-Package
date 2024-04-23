@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <name>Habushu::Cucumber Formatter</name>
@@ -11,7 +10,7 @@
     </parent>
 
     <groupId>org.technologybrewery.habushu.cucumber.formatter</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <artifactId>habushu-cucumber-formatter</artifactId>
     <packaging>habushu</packaging>
@@ -40,7 +39,8 @@
         <connection>scm:git:ssh://git@github.com/TechnologyBrewery/cucumber-behave-package.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/TechnologyBrewery/cucumber-behave-package.git</developerConnection>
         <url>https://github.com/TechnologyBrewery/cucumber-behave-package/</url>
-    </scm>
+      <tag>habushu-cucumber-formatter-1.0.0</tag>
+  </scm>
 
     <build>
         <directory>dist</directory>
