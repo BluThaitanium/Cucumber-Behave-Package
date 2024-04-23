@@ -9,7 +9,7 @@
         <version>8</version>
     </parent>
 
-    <groupId>org.technologybrewery.habushu.cucumber.formatter</groupId>
+    <groupId>org.technologybrewery.kappamaki</groupId>
     <version>1.0.2-SNAPSHOT</version>
 
     <artifactId>kappa-maki</artifactId>
@@ -36,9 +36,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/TechnologyBrewery/cucumber-behave-package.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/TechnologyBrewery/cucumber-behave-package.git</developerConnection>
-        <url>https://github.com/TechnologyBrewery/cucumber-behave-package/</url>
+        <connection>scm:git:ssh://git@github.com/TechnologyBrewery/kappa-maki.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/TechnologyBrewery/kappa-maki.git</developerConnection>
+        <url>https://github.com/TechnologyBrewery/kappa-maki/</url>
       <tag>HEAD</tag>
   </scm>
 
